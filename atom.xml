@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://panowo.github.io</id>
+    <title>Panowo</title>
+    <updated>2023-05-10T15:19:58.896Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://panowo.github.io"/>
+    <link rel="self" href="https://panowo.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://panowo.github.io/images/avatar.png</logo>
+    <icon>https://panowo.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, Panowo</rights>
+    <entry>
+        <title type="html"><![CDATA[About Me]]></title>
+        <id>https://panowo.github.io/post/about-me/</id>
+        <link href="https://panowo.github.io/post/about-me/">
+        </link>
+        <updated>2023-05-10T15:17:42.000Z</updated>
+        <content type="html"><![CDATA[<p>I am Pan Han, hailing from Zhejiang, China. Currently, I am pursuing a graduate degree in Information Technology at Hong Kong University of Science and Technology. Prior to that, I obtained my undergraduate degree in Intelligent Science and Technology from Xiamen University.</p>
+<p>During my leisure time, I relish spending time with friends, exploring different parts of the world, and broadening my knowledge about diverse cultures.</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSIT6000N-HCI-Project-Group7]]></title>
+        <id>https://panowo.github.io/post/csit6000n-hci-project-group7/</id>
+        <link href="https://panowo.github.io/post/csit6000n-hci-project-group7/">
+        </link>
+        <updated>2023-05-06T08:39:24.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="terminator"><strong>Terminator</strong></h3>
+<p>LONG Shiyao</p>
+<p>CHEN Chen</p>
+<p>HUANG Qiuhua</p>
+<p>PAN Han</p>
+<p>ZHAO Zhuoyue</p>
+<p>ZHOU, Qian</p>
+  <br />
+<h3 id="description"><strong>Description</strong></h3>
+<p>In this project, we worked together to design a sport health app called &quot;AI Fitness Coach&quot;. We considered the changes caused by the pandemic, such as the importance of mental health and the need for convenient fitness options. We then focused on the needs of college students and proposed an AI-based fitness coaching application that can provide personalized exercise plans and real-time feedback on performance. The app can help users achieve long-term success in their fitness journey by tailoring the workout experience to the user's individual needs and preferences.<br>
+<br /></p>
+<h3 id="brainstorming"><strong>BRAINSTORMING</strong></h3>
+<p><strong>What's changed during the pandemic?</strong></p>
+<figure data-type="image" tabindex="1"><img src="https://panowo.github.io/post-images/%E5%9B%BE%E7%89%871.png" alt="" loading="lazy"></figure>
+<p>When we brainstormed about this topic, we have organized them into four aspects: psychological, economic, technological and physical.</p>
+<p>First, the pandemic has separated us from our family, friends and even lovers, many of those social interactions have been re-prioritized in our life and many people now become more aware of the importance of mental health.</p>
+<p>Secondly, the pandemic also made many people out of their jobs and the job market is very tough. People need to readjust their expectations for their career and think more about how to achieve work-life balance, with more stable financials.</p>
+<p>Thirdly, the pandemic has accelerated the use of technology for remote work, remote study, online shopping and even seeing doctors online. Many people’s mindset has been shifted and there are many more things that are changing from default offline to default online.</p>
+<p>Lastly, the pandemic has taught people the importance of our health. People are now much more careful with personal hygiene and sanitization. Staying at home also improved people’s cooking skills.</p>
+<p>We decided to go further with last point around fitness.</p>
+ <br />
+<p><strong>Fitness Needs after Pandemic</strong></p>
+<figure data-type="image" tabindex="2"><img src="https://panowo.github.io/post-images/%E5%9B%BE%E7%89%872.png" alt="" loading="lazy"></figure>
+<p>When we compare different workout options, we see that although gym workouts offer better equipment and for people with lots of commitments. Outdoor and home workouts are easier to get started with and have more potential to help most people become fit. The limitations of outdoor workouts and home workouts can be addressed with better choices, coaching and guidance.<br>
+<br /></p>
+<figure data-type="image" tabindex="3"><img src="https://panowo.github.io/post-images/1683362715638.jpg" alt="" loading="lazy"></figure>
+<p>Because of convenience sampling, we want to focus on the needs of the college students. They want to improve their fitness &amp; health. They need to have a convenient, cost efficient and effective workout routine that can fit into their busy schedule, can be easily adjusted according to their space and available equipment, and more importantly with professional guidance on the proper ways to do it.<br>
+<br /></p>
+<h3 id="storyboards"><strong>STORYBOARDS</strong></h3>
+<p><strong>First Storyboard</strong><br>
+<img src="https://panowo.github.io/post-images/1683362819666.jpg" alt="" loading="lazy"><br>
+We come up with two main scenarios that our target users might face and proposed our possible solutions.<br>
+Let’s look at our first storyboard.<br>
+There is a college student who lives in the dormitory, who has just recovered from Covid, and he says &quot;I feel like my body is so weak lately, but I have never exercised before. What should I do to start?&quot;<br>
+The problem is that many students who want to start exercising, often don't know where to begin. The overwhelming amount of information on the internet can be intimidating.<br>
+That's where our intervention comes in. Imagine if that student could chat with an AI-based chatbot within a fitness app for more personalized workout plans based on his own situation.<br>
+And we can picture that the outcome of using this app is improved mental and physical health. By tailoring the workout experience to the user's individual needs and preferences, the application can help users achieve long-term success in their fitness journey.<br>
+<br /></p>
+<p><strong>Second Storyboard</strong><br>
+<img src="https://panowo.github.io/post-images/1683362832876.jpg" alt="" loading="lazy"><br>
+This time let’s imagine a student who wants to exercise scientifically and receive professional guidance but is concerned about COVID-19 transmission in crowded gyms.<br>
+This person wants to exercise safely and effectively, but doesn't have access to professional trainers or gym equipment, creating a problem for them.<br>
+Our solution is an AI-based fitness coaching application that can provide personalized exercise plans and real-time feedback on performance. The app can use data from the user's wearable fitness tracker or smartphone sensors or camera to monitor their movements and provide feedback on form, cadence, and other performance metrics. The app can also provide audio coaching and motivation in real-time, adjusting the workout based on the user's performance and goals. This application allows users to exercise safely and effectively no matter where they choose to work out.<br>
+The outcome of this app is improved physical and mental health, as users are able to exercise scientifically and safely, regardless of their location or access to resources. With this application, users can achieve their fitness goals and stay healthy while minimizing their exposure to COVID-19.</p>
+   <br />
+<h3 id="our-final-idea"><strong>OUR FINAL IDEA</strong></h3>
+<figure data-type="image" tabindex="4"><img src="https://panowo.github.io/post-images/1683362849320.jpg" alt="" loading="lazy"></figure>
+<p>In this storyboard, I want to exercise at home, but I don’t know what I should do. So I chat with the fitness app and get a personal plan. When I am working out, the AI will instruct me and  encourage me. A few days later, I become stronger and healthier.<br>
+<br /></p>
+<h3 id="video-prototype-and-user-feedback"><strong>VIDEO PROTOTYPE AND USER FEEDBACK</strong></h3>
+<figure data-type="image" tabindex="5"><a href="https://www.youtube.com/watch?v=vNrDdV7tloU" title="Video Demo-Group7"><img src="https://res.cloudinary.com/marcomontalbano/image/upload/v1683474090/video_to_markdown/images/youtube--vNrDdV7tloU-c05b58ac6eb4c4700831b2b3070cd403.jpg" alt="Video Demo-Group7" loading="lazy"></a></figure>
+ <br />
+<p>The app was designed to be convenient, cost-efficient, and effective, with personalized workout plans and professional guidance on the proper ways to perform each exercise.</p>
+<p><strong>Key Design Decision</strong></p>
+<figure data-type="image" tabindex="6"><img src="https://panowo.github.io/post-images/1683626067148.jpg" alt="" loading="lazy"></figure>
+<p>Users said the interaction is good and it can help them exercise.<strong>This fits our design goals - Create a personalized workout program!</strong></p>
+ <br />
+<h3 id="what-have-i-done"><strong>WHAT HAVE I DONE</strong></h3>
+<p>In this project, I worked with a team to design and develop a sport health app called &quot;AI Fitness Coach&quot;.<br>
+<strong>In the first stage</strong>, I contributed to the ideation process by proposing features that would benefit our target users, such as personalized workout plans. I also helped in design questionaire to analyse user needs and analysis the results.<br>
+<strong>In the second stage</strong>, I give advice and suggestions on the app's content design and interaction design. I helped with the video shoting. Finally, I contributed to the evaluation of our proposed solution by conducting Heuristic Analysis.</p>
+   <br />
+<h3 id="reflection"><strong>REFLECTION</strong></h3>
+<p>Working on the &quot;AI Fitness Coach&quot; project was a challenging and rewarding experience. It allowed me to learn more about the design and development process of mobile applications. I got to work closely with my team members and contribute my ideas to the project. I also learned the importance of user-centered design and the value of user feedback in creating a successful app. Moreover, I gained valuable experience in conducting Heuristic Analysis. Overall, I enjoyed working on this project and feel proud of the final product that we created.</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSIT6000N Critical Thinking Competition]]></title>
+        <id>https://panowo.github.io/post/poster/</id>
+        <link href="https://panowo.github.io/post/poster/">
+        </link>
+        <updated>2023-02-13T11:22:48.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://panowo.github.io/post-images/1676287415088.png" alt="" loading="lazy"></figure>
+<p>After reflecting on the previous essay and what I have learned this semester, I still believe that the first-generation model Apple Pencil's design is bad in addressing some of the charging issues. In addition to the user's perspective, my study of human-computer interaction this semester has provided me with a fresh perspective on the challenges associated with charging the device.<br>
+To assess the design's effectiveness in meeting user expectations, I have employed Usability Testing to consider the user's viewpoint. A key issue with charging the Pencil is that people often forget to do so until it is needed, causing inconvenience. By establishing a deep empathy with users, designers can develop innovative solutions.<br>
+To explore potential remedies, I consider the Past, Present, and Future of charging technologies to think of possible solutions. Looking back at the past, the method of charging devices was often limited to contact-based solutions. However, in the present day, we have seen the emergence of non-contact charging methods that have revolutionized the way we power our devices. These new technologies have enabled us to charge our devices without the need for physical contact, allowing for greater convenience and flexibility.<br>
+In response to the challenge of charging the Apple Pencil, designers have leveraged the needs of users and the possibilities of technology to create innovative solutions for business success. For example, the second-generation Apple Pencil incorporates magnetic properties, allowing it to charge effortlessly when connected to the iPad. This feature ensures users always have a charged device at their disposal, even if they forget to charge it beforehand. By removing the need for users to remember to charge their Pencil in advance, this design solution simplifies the user experience and boosts productivity.<br>
+In conclusion, although the second-generation Apple Pencil has addressed some of the charging issues, its limited compatibility makes it an impractical choice for many iPad users. A better design for a stylus would prioritize convenience and usability for all users.</p>
+]]></content>
+    </entry>
+</feed>
